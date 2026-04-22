@@ -1,3 +1,16 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=learn--big--data--with--ai&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=26-week+Big+Data+course+covering+Snowflake%2C+Databricks%2C+BigQuery+%26+Redshift&descAlignY=58&descSize=14" alt="Header"/>
+
+[![Stars](https://img.shields.io/github/stars/unrealandychan/learn-big-data-with-ai?style=for-the-badge&logo=github&color=f78166&logoColor=white&labelColor=0d1117)](https://github.com/unrealandychan/learn-big-data-with-ai/stargazers)
+[![Forks](https://img.shields.io/github/forks/unrealandychan/learn-big-data-with-ai?style=for-the-badge&logo=github&color=79c0ff&logoColor=white&labelColor=0d1117)](https://github.com/unrealandychan/learn-big-data-with-ai/network/members)
+[![Language](https://img.shields.io/badge/Shell-4EAA25?logo=gnubash&style=for-the-badge&logoColor=white&labelColor=0d1117)](https://github.com/unrealandychan/learn-big-data-with-ai)
+[![BigQuery](https://img.shields.io/badge/BigQuery-GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=0d1117)](https://cloud.google.com/bigquery)
+
+</div>
+
+---
+
 # Big Data Warehouse Learning Course
 
 A comprehensive, self-paced learning course covering the four major cloud data warehouse platforms: **Snowflake**, **Databricks**, **BigQuery**, and **Amazon Redshift**.
